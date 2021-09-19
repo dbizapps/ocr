@@ -9,7 +9,7 @@
         "phpunit/phpunit": "10.0.x-dev",
         "symfony/var-dumper": "6.0.x-dev"
     },
-    "license": "Apache License",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "dbizapps\\OCR\\": "src/",
